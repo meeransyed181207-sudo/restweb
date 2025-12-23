@@ -502,9 +502,8 @@ style4.css
 
 ## OUTPUT:
 ![alt text](<Screenshot (30)-1.png>)
-![alt text](<Screenshot (32).png>)
-![alt text](<Screenshot (33).png>)
-![alt text](<Screenshot (34).png>)
-
+![alt text](<Screenshot (35).png>)
+![alt text](<Screenshot (36).png>)
+![alt text](<Screenshot (37).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
