@@ -1,0 +1,76 @@
+.background {
+    width: 1470px;
+    height: 680px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(BACKPIC.PNG);
+    background-size: cover;
+}
+.contents {
+    width: 600px;
+    height: 30px;
+    border: 20px solid rgb(51, 255, 0);
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    top: 5px;
+    left: 900px;
+    position: relative;
+    word-spacing: 70px;
+}
+.menu {
+    color: gray;
+    font-family: Verdana;
+    text-align: left;
+    position: relative;
+    font-size: 300%;
+    top: -50px;
+}
+
+.menugrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));;
+    gap: 50px;
+    justify-items: center;
+    padding: 20px;
+    margin-top: -50px;
+}
+
+.menuitem {
+    background-color: beige;
+    
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.menuitem img {
+    
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.menuitem h1 {
+    font-size: 1.5em;
+    color: black;
+    margin-top: 15px;
+}
+
+.menuitem p {
+    color: black;
+    margin-bottom: 0px;
+}
+
+.copyrights{
+    width: 1510px;
+    height: 20px;
+    background-color: rgb(129, 131, 209);
+    text-align: center;
+    top: -30px;
+    left: -20px;
+    position: relative;
+}
